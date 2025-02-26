@@ -266,3 +266,8 @@
 <!-- a padding to disable MSIE and Chrome friendly error page -->
 
 [03:21:06 | 26-02-2025] ✅ Node started for 0xB256c2696579DEC7B7A0e815Eb71d1fd19E8A874
+[08:26:57 | 26-02-2025] Wallet Address: 0xB256c2696579DEC7B7A0e815Eb71d1fd19E8A874
+[08:26:57 | 26-02-2025] Node Points: 222109
+[08:26:57 | 26-02-2025] Last Claim Point: 24/02/2025 08:26:06
+[08:26:58 | 26-02-2025] ✅ Points claimed for 0xB256c2696579DEC7B7A0e815Eb71d1fd19E8A874
+[08:27:00 | 26-02-2025] 🚨 Failed to start node for 0xB256c2696579DEC7B7A0e815Eb71d1fd19E8A874: [object Object]
